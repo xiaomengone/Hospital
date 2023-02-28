@@ -1,0 +1,1 @@
+import{r as t}from"./request-24c768a8.js";const r=e=>t("/patient/home/knowledge","get",e),n=e=>t("/home/page/doc","get",e),s=(e,o="doc")=>t("/like","post",{id:e,type:o}),g=()=>t("/dep/all","get"),l=e=>{const o=new FormData;return o.append("file",e),t("/upload","post",o)};export{n as a,r as b,s as f,g,l as u};

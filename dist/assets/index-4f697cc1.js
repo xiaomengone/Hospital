@@ -1,0 +1,1 @@
+import{L as n,o as _,P as s,Q as o,_ as a}from"./_plugin-vue_export-helper-f3904dc0.js";const t={"aria-hidden":"true",class:"cp-icon"},c=["href"],r=n({__name:"index",props:{name:null},setup(e){return(p,i)=>(_(),s("svg",t,[o("use",{href:`#icon-${e.name}`},null,8,c)]))}});const l=a(r,[["__scopeId","data-v-8f4fa3a8"]]);export{l as _};
